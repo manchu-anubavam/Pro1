@@ -7,6 +7,8 @@ public class pro1 {
 		System.out.println("Pro1");
 		System.out.println("Pro2");
 		System.out.println("Pro3");
+		System.out.println("Pro9");
+		System.out.println("Pro10");
 	}
 	
 }
