@@ -6,7 +6,7 @@ public class pro2 {
 		
 		System.out.println("Pro4");
 		System.out.println("Pro5");
-		
+		System.out.println("Pro6");
 	}
 	
 }
