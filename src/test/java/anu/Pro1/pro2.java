@@ -8,6 +8,8 @@ public class pro2 {
 		System.out.println("Pro5");
 		System.out.println("Pro6");
 		System.out.println("Pro7");
+		System.out.println("Pro18");
+		System.out.println("Pro19");
 	}
 	
 }
